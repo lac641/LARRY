@@ -1,0 +1,29 @@
+/* General styles */
+body {
+    background-color: pink;
+    line-height: 1.6;
+    text-decoration-color: red;
+}
+h1 {
+    text-align: center;
+    text-decoration: solid;
+    padding: 10px 20px;
+    color: red;
+}
+h2 {
+    text-align: center;
+    text-decoration: solid;
+    padding: 10px 20px;
+    color: red;
+}
+h3 {
+    text-align: center;
+    text-decoration: solid;
+    padding: 10px 20px;
+    color: red;
+}
+footer {
+    text-align: end;
+}
+img h1 {
+    image height: ;
